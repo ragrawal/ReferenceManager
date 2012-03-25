@@ -1,0 +1,12 @@
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\bin\Debug\RefereceManager.dll
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\bin\Debug\RefereceManager.pdb
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\bin\Debug\RefereceManager.dll.manifest
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\bin\Debug\RefereceManager.vsto
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Debug\RefereceManager.Resources.resources
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Debug\RefereceManager.vbproj.GenerateResource.Cache
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Debug\RefereceManager.dll
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Debug\RefereceManager.pdb
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Debug\RefereceManager.DialogImportText.resources
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Debug\RefereceManager.DialogImportUrl.resources
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Debug\RefereceManager.ribbonReferenceManager.resources

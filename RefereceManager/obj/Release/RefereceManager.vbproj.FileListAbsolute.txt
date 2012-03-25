@@ -1,0 +1,17 @@
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\bin\Release\RefereceManager.dll
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\bin\Release\RefereceManager.pdb
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\bin\Release\RefereceManager.dll.manifest
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\bin\Release\RefereceManager.vsto
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\RefereceManager.DialogImportText.resources
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\RefereceManager.DialogImportUrl.resources
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\RefereceManager.Resources.resources
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\RefereceManager.vbproj.GenerateResource.Cache
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\RefereceManager.dll
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\RefereceManager.pdb
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\bin\Release\Interop.MSXML2.dll
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\Interop.MSXML2.dll
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\RefereceManager.vbproj.ResolveComReference.cache
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\RefereceManager.MementoRibbon.resources
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\RefereceManager.MementoUserControl.resources
+C:\Users\ragrawal\Documents\Visual Studio 2008\Projects\RefereceManager\RefereceManager\obj\Release\RefereceManager.DialogExport.resources
